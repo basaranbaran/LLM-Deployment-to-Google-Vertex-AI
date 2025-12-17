@@ -3,7 +3,7 @@
 > [!NOTE]
 > **Execution Context:** Google Cloud Console / Web Browser
 
-![Pixtral Model Monitoring Dashboard](images/monitoring-dashboard.png)
+![Pixtral Model Monitoring Dashboard](../photos/image-2.png)
 
 This dashboard was created to monitor the operational process of the Pixtral-12B-2409 model running on Vertex AI. It allows real-time monitoring of resource utilization, system performance, and network traffic at the model’s connected endpoint.
 
