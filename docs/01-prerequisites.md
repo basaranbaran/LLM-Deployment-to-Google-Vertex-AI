@@ -23,7 +23,7 @@ The required APIs (Vertex AI, Artifact Registry, Compute Engine) must be enabled
     *   **Metric**: “A100” — since we are using the A100 GPU (if you’re using another GPU, filter accordingly).
     *   **Region**: “europe-west4” — select the region where you’ll run the deployment (adjust if using a different one).
 
-![A100 GPU Quota Example](images/prerequisites-quota.png)
+![A100 GPU Quota Example](../photos/image-1.png)
 
 Ensure you have at least one A100 GPU approved for use in Vertex AI.
 
