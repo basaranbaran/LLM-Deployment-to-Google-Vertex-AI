@@ -20,7 +20,7 @@ This tutorial is broken down into the following sections:
 6.  [Testing & Verification](docs/06-verification.md)
 7.  [Monitoring](docs/07-monitoring.md)
 
-## Deployment Overview
+## Deployment Overview:
 
 We will be deploying the `mistral-community/pixtral-12b` model.
 The deployment process involves:
